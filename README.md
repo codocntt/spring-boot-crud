@@ -1,4 +1,4 @@
-# spring-boot-student
+# spring-boot-crud
 
 
 Listens on port 9999
